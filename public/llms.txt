@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-5f2da282.zappy5.app
+https://example.com
 מחפשים אתר אוכל מושלם? שניצלים מטעמים מביאים עד אליכם שניצל עוף ועגל פריכים ומפנקים. כנסו עכשיו להזמין את השניצל הכי טעים בעיר!
 
 ### אודות
-https://-5f2da282.zappy5.app/about
+https://example.com/about
 מאחורי כל שניצל עומדת אהבה אמיתית לאוכל מנצח. גלו מי אנחנו, למה אנחנו האתר אוכל ecommerce הכי שווה, ואיך הפכנו אוכל רחוב למעדן ביתי מושלם.
 
 ### איכות ותהליך
-https://-5f2da282.zappy5.app/quality-process
+https://example.com/quality-process
 מבשר טרי ועד ציפוי זהוב ומדויק: היכנסו להציץ בתהליך ההכנה הקפדני שהופך אותנו לאתר אוכל ecommerce מוביל. איכות שאי אפשר לעמוד בפניה.
 
 ### צור קשר
-https://-5f2da282.zappy5.app/contact
+https://example.com/contact
 יש שאלה, בקשה מיוחדת או סתם מתחשק לכם לפטפט על שניצלים? צרו קשר עכשיו עם האתר אוכל ecommerce הכי פריך בסביבה ונחזור אליכם בזריזות.
 
 ### Products
-https://-5f2da282.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - שניצלים מטעמים
 
 ### Cart
-https://-5f2da282.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-5f2da282.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-5f2da282.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-5f2da282.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-5f2da282.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-5f2da282.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - שניצלים מטעמים
 
 ### Category
-https://-5f2da282.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - שניצלים מטעמים
 
 ### תודה שפניתם אלינו
-https://-5f2da282.zappy5.app/thank-you
+https://example.com/thank-you
 שניצלים מטעמים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5f2da282.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5f2da282.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5f2da282.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Food E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5f2da282.zappy5.app/sitemap.xml
-- Robots: https://-5f2da282.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5f2da282.zappy5.app/llms-full.txt
-- Products (JSON): https://-5f2da282.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-5f2da282.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
