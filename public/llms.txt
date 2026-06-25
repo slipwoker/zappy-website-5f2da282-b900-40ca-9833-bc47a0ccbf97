@@ -1,0 +1,107 @@
+# שניצלים מטעמים — Generative Engine Optimization Map
+
+> An online store specializing in selling schnitzel — a popular fried meat dish. The business focuses on food e-commerce, likely offering various types of schnitzel (chicken, veal, etc.) for delivery or pickup. The brand revolves around a beloved comfort food staple with potential for a fun, appetizing, and approachable identity.
+
+---
+
+## Pages
+
+### בית
+https://-5f2da282.zappy5.app
+מחפשים אתר אוכל מושלם? שניצלים מטעמים מביאים עד אליכם שניצל עוף ועגל פריכים ומפנקים. כנסו עכשיו להזמין את השניצל הכי טעים בעיר!
+
+### אודות
+https://-5f2da282.zappy5.app/about
+מאחורי כל שניצל עומדת אהבה אמיתית לאוכל מנצח. גלו מי אנחנו, למה אנחנו האתר אוכל ecommerce הכי שווה, ואיך הפכנו אוכל רחוב למעדן ביתי מושלם.
+
+### איכות ותהליך
+https://-5f2da282.zappy5.app/quality-process
+מבשר טרי ועד ציפוי זהוב ומדויק: היכנסו להציץ בתהליך ההכנה הקפדני שהופך אותנו לאתר אוכל ecommerce מוביל. איכות שאי אפשר לעמוד בפניה.
+
+### צור קשר
+https://-5f2da282.zappy5.app/contact
+יש שאלה, בקשה מיוחדת או סתם מתחשק לכם לפטפט על שניצלים? צרו קשר עכשיו עם האתר אוכל ecommerce הכי פריך בסביבה ונחזור אליכם בזריזות.
+
+### Products
+https://-5f2da282.zappy5.app/products
+המוצרים שלנו - שניצלים מטעמים
+
+### Cart
+https://-5f2da282.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-5f2da282.zappy5.app/checkout
+תשלום
+
+### Login
+https://-5f2da282.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-5f2da282.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-5f2da282.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-5f2da282.zappy5.app/product/:slug
+פרטי המוצר - שניצלים מטעמים
+
+### Category
+https://-5f2da282.zappy5.app/category/:slug
+מוצרים - שניצלים מטעמים
+
+### תודה שפניתם אלינו
+https://-5f2da282.zappy5.app/thank-you
+שניצלים מטעמים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5f2da282.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5f2da282.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5f2da282.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שניצלים מטעמים
+An online store specializing in selling schnitzel — a popular fried meat dish. The business focuses on food e-commerce, likely offering various types of schnitzel (chicken, veal, etc.) for delivery or pickup. The brand revolves around a beloved comfort food staple with potential for a fun, appetizing, and approachable identity.
+
+## Services/Products
+- מכירת שניצלים
+
+## Target Audience
+- הורים עסוקים
+- מקצוענים צעירים
+- סטודנטים
+
+## Industry
+Food E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5f2da282.zappy5.app/sitemap.xml
+- Robots: https://-5f2da282.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5f2da282.zappy5.app/llms-full.txt
+- Products (JSON): https://-5f2da282.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-5f2da282.zappy5.app/product-feed.xml
